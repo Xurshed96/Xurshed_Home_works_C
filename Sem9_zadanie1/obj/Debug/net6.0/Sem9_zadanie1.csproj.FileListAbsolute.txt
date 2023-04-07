@@ -1,0 +1,15 @@
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem9_zadanie1\bin\Debug\net6.0\Sem9_zadanie1.exe
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem9_zadanie1\bin\Debug\net6.0\Sem9_zadanie1.deps.json
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem9_zadanie1\bin\Debug\net6.0\Sem9_zadanie1.runtimeconfig.json
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem9_zadanie1\bin\Debug\net6.0\Sem9_zadanie1.dll
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem9_zadanie1\bin\Debug\net6.0\Sem9_zadanie1.pdb
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem9_zadanie1\obj\Debug\net6.0\Sem9_zadanie1.csproj.AssemblyReference.cache
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem9_zadanie1\obj\Debug\net6.0\Sem9_zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem9_zadanie1\obj\Debug\net6.0\Sem9_zadanie1.AssemblyInfoInputs.cache
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem9_zadanie1\obj\Debug\net6.0\Sem9_zadanie1.AssemblyInfo.cs
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem9_zadanie1\obj\Debug\net6.0\Sem9_zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem9_zadanie1\obj\Debug\net6.0\Sem9_zadanie1.dll
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem9_zadanie1\obj\Debug\net6.0\refint\Sem9_zadanie1.dll
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem9_zadanie1\obj\Debug\net6.0\Sem9_zadanie1.pdb
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem9_zadanie1\obj\Debug\net6.0\Sem9_zadanie1.genruntimeconfig.cache
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem9_zadanie1\obj\Debug\net6.0\ref\Sem9_zadanie1.dll
