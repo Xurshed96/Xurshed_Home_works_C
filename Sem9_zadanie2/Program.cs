@@ -5,10 +5,10 @@
 // M = 4; N = 8. -> 30
 
 Console.Clear();
-int Prompt(string message)
+int InputNumber(string number)
 {
-  Console.Write(message);
-  int result = int.Parse(Console.ReadLine()!);
+  Console.Write(number);
+  int result = int.Parse(Console.ReadLine());
   return result;
 }
 
@@ -18,7 +18,7 @@ int SumOfElements(int n, int m)
   else return SumOfElements(n + 1, m) + n;
 }
 
-int n = Prompt("Input N: ");
-int m = Prompt("Input M: ");
+int n = InputNumber("Enter N: ");
+int m = InputNumber("Enter M: ");
 
 Console.WriteLine(SumOfElements(n, m));
