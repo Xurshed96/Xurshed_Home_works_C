@@ -1,0 +1,15 @@
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem8_dop_zadanie\bin\Debug\net6.0\Sem8_dop_zadanie.exe
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem8_dop_zadanie\bin\Debug\net6.0\Sem8_dop_zadanie.deps.json
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem8_dop_zadanie\bin\Debug\net6.0\Sem8_dop_zadanie.runtimeconfig.json
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem8_dop_zadanie\bin\Debug\net6.0\Sem8_dop_zadanie.dll
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem8_dop_zadanie\bin\Debug\net6.0\Sem8_dop_zadanie.pdb
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem8_dop_zadanie\obj\Debug\net6.0\Sem8_dop_zadanie.csproj.AssemblyReference.cache
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem8_dop_zadanie\obj\Debug\net6.0\Sem8_dop_zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem8_dop_zadanie\obj\Debug\net6.0\Sem8_dop_zadanie.AssemblyInfoInputs.cache
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem8_dop_zadanie\obj\Debug\net6.0\Sem8_dop_zadanie.AssemblyInfo.cs
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem8_dop_zadanie\obj\Debug\net6.0\Sem8_dop_zadanie.csproj.CoreCompileInputs.cache
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem8_dop_zadanie\obj\Debug\net6.0\Sem8_dop_zadanie.dll
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem8_dop_zadanie\obj\Debug\net6.0\refint\Sem8_dop_zadanie.dll
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem8_dop_zadanie\obj\Debug\net6.0\Sem8_dop_zadanie.pdb
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem8_dop_zadanie\obj\Debug\net6.0\Sem8_dop_zadanie.genruntimeconfig.cache
+C:\Users\khush\Desktop\Семинары homeworks\Xurshed_Home_works_C\Sem8_dop_zadanie\obj\Debug\net6.0\ref\Sem8_dop_zadanie.dll
